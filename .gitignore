@@ -1,2 +1,5 @@
 *.dat
+#Ignore most 
 results/
+!final.dat 
+#Not ignoring final
